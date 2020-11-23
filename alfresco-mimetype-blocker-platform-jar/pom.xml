@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>alfresco-mimetype-blocker-platform-jar</artifactId>
     <name>Alfresco Platform/Repository Mimetype Blocker JAR Module</name>
-    <description>Platform/Repo JAR Module (to be included in the alfresco.war)</description>
+    <description>Alfresco mimetype blocker Platform/Repo JAR Module (to be included in the alfresco.war)</description>
     <packaging>jar</packaging>
 
     <parent>
